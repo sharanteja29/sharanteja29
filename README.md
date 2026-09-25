@@ -1,11 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sharan Teja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Backend+Developer;Playwright+%26+TypeScript;Cloud+%26+DevOps;Always+Learning+%26+Building" />
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897826-4e7f7f2e-5c43-4c3c-8e4e-4f7f7f7f7f7f.gif" width="400">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Backend+Developer;Playwright+%26+TypeScript;Cloud+%26+DevOps" />
 </p>
 
 ---
@@ -16,8 +12,7 @@
 - 🧩 I enjoy turning ideas into **practical, working software**
 - 🔍 Curious about how systems work — from **applications and APIs to infrastructure**
 - 🛠️ I like learning through **hands-on development and experimentation**
-- 🚀 Interested in building solutions that combine **software, automation, cloud and AI**
-
+- 🚀 Interested in building solutions that combine **software, automation, and AI**
 
 ---
 
@@ -29,13 +24,19 @@
   <img src="https://skillicons.dev/icons?i=python,ts,js,java" />
 </p>
 
+<p align="center">
+  SQL
+</p>
+
+---
+
 ### 🤖 AI
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch" height="55" />
-  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="55" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="55" />
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="55" />
 </p>
 
@@ -47,10 +48,12 @@
 
 </p>
 
+---
+
 ### ⚡ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,postgresql" />
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,postgresql,redis" />
 </p>
 
 <p align="center">
@@ -58,6 +61,8 @@
 `FastAPI` • `REST APIs` • `SQLAlchemy` • `PostgreSQL` • `Redis`
 
 </p>
+
+---
 
 ### 🧪 Testing & Automation
 
@@ -73,6 +78,8 @@
 
 </p>
 
+---
+
 ### ☁️ Cloud & DevOps
 
 <p align="center">
@@ -86,6 +93,8 @@
 `Kubernetes` • `Google Cloud` • `CI/CD`
 
 </p>
+
+---
 
 ### 🌐 Frontend
 
@@ -113,15 +122,15 @@
 
 <p align="center">
 
-<a href="https://github.com/sharanteja29">
+<a href="https://github.com/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/sharan-teja-gangishetty-119109228//">
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gsteja297@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 

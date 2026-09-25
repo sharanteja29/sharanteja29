@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Sharan Teja</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Backend+Developer;Playwright+%26+TypeScript;Cloud+%26+DevOps;Always+Learning+%26+Building" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+Enthusiast;Backend+Developer;Playwright+%26+TypeScript;Cloud+%26+DevOps;Always+Learning+%26+Building" />
 </p>
 
 <p align="center">
